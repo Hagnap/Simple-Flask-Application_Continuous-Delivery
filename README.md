@@ -1,9 +1,13 @@
 # CloudComputing ProjectOne
+
+[![CircleCI](https://circleci.com/gh/jhagg26/CloudComputing_Project1.svg?style=svg)](https://circleci.com/gh/jhagg26/CloudComputing_Project1)
+
 <html>
     <h2><i>This project utilizes</i></h2>
         <ul>
             <li>Continuous Delivery</li>
             <li>A Build Trigger</li>
+            <li>CircleCi</li>
         </ul>
         <h2><i>Routes</i></h2>
         <ul>
