@@ -12,17 +12,19 @@
             <li>"/name/<value>"</li>
         </ul>
     <h2><i>Requirements</i></h2>
-    <ul>
-        <li>Flask==1.1.1</li>
-        <li>pytest</li>
-        <li>pylint</li>
-    </ul>
-     <ul>
-        <h2><i>Makefile Commands</i></h2>
+        <ul>
+            <li>Flask==1.1.1</li>
+            <li>pytest</li>
+            <li>pylint</li>
+            <li>wikipedia</li>
+            <li>google-cloud-language</li>
+        </ul>
+    <h2><i>Makefile Commands</i></h2>
+        <ul>
             <li>install</li>
             <li>lint</li>
             <li>run</li>
             <li>all</li>
-    </ul>
+        </ul>
     </header>
 </html>
