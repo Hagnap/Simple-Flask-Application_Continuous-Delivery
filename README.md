@@ -1,21 +1,28 @@
 # CloudComputing ProjectOne
 <html>
-    <header>
+    <h2><i>This project utilizes</i></h2>
+        <ul>
+            <li>Continuous Delivery</li>
+            <li>A Build Trigger</li>
+            <li>A Build Trigger</li>
+        </ul>
         <h2><i>Routes</i></h2>
-            <p>"/"</p>
-            <p>"/name/<value>"</p>
-    </header>
-    <header>
-        <h2><i>Requirements</i></h2>
-            <p>Flask==1.1.1</p>
-            <p>pytest</p>
-            <p>pylint</p>
-    </header>
-    <header>
+        <ul>
+            <li>"/"</li>
+            <li>"/name/<value>"</li>
+        </ul>
+    <h2><i>Requirements</i></h2>
+    <ul>
+        <li>Flask==1.1.1</li>
+        <li>pytest</li>
+        <li>pylint</li>
+    </ul>
+     <ul>
         <h2><i>Makefile Commands</i></h2>
-            <p>install</p>
-            <p>lint</p>
-            <p>run</p>
-            <p>all</p>
+            <li>install</li>
+            <li>lint</li>
+            <li>run</li>
+            <li>all</li>
+    </ul>
     </header>
 </html>
