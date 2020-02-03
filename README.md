@@ -7,7 +7,7 @@
         <ul>
             <li>Continuous Delivery</li>
             <li>A Build Trigger</li>
-            <li>CircleCi</li>
+            <li>CircleCI</li>
         </ul>
         <h2><i>Routes</i></h2>
         <ul>
