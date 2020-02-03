@@ -45,11 +45,7 @@ jobs:
       # https://pytest.org
       # https://nose.readthedocs.io
       - run:
-          name: run tests
+          name: run lint
           command: |
             . venv/bin/activate
-            python main.py test
-
-      - store_artifacts:
-          path: test-reports
-          destination: test-reports
+            make lint
