@@ -33,12 +33,13 @@ def html():
             <ul>
                 <li>Continuous Delivery</li>
                 <li>A Build Trigger</li>
-                <li>A Build Trigger</li>
             </ul>
             <h2><i>Routes</i></h2>
             <ul>
                 <li>"/"</li>
                 <li>"/name/<value>"</li>
+                <li>"/wikiepedia/<company>"</li>
+                <li>"/nlp/<company>"</li>
             </ul>
         <h2><i>Requirements</i></h2>
         <ul>
