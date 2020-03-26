@@ -1,4 +1,4 @@
-# CloudComputing ProjectOne
+# Simple-Flask-Application_Continouos-Delivery
 
 [![CircleCI](https://circleci.com/gh/jhagg26/CloudComputing_Project1.svg?style=svg)](https://circleci.com/gh/jhagg26/CloudComputing_Project1)
 
