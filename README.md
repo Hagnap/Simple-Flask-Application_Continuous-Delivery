@@ -1,6 +1,6 @@
 # Simple-Flask-Application_Continouos-Delivery
 
-[![CircleCI](https://circleci.com/gh/jhagg26/CloudComputing_Project1.svg?style=svg)](https://circleci.com/gh/jhagg26/CloudComputing_Project1)
+[![CircleCI](https://circleci.com/gh/jhagg26/Simple-Flask-Application_Continuous-Delivery.svg?style=svg)](https://circleci.com/gh/jhagg26/Simple-Flask-Application_Continuous-Delivery)
 
 <html>
     <h2><i>This project utilizes</i></h2>
